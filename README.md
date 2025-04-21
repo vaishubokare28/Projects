@@ -69,7 +69,7 @@ This repository contains a collection of Python mini-projects from beginner to i
 
 | Project Title                                          | Description                                                |
 |-------------------------------------------------------|------------------------------------------------------------|
-| `library management system using PDBC.py`             | Library system integrated with a database (SQLite/MySQL). |
+| `library management system using PDBC.py`             | Library system integrated with a database (MySQL). |
 | `project management system using PDBC.py`             | Tracks projects and tasks using DB operations.            |
 | `Student Management System using PDBC.py`             | Complete CRUD system for managing student records.        |
 

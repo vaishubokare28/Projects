@@ -75,4 +75,4 @@ This repository contains a collection of Python mini-projects from beginner to i
 
 ---
 
-THANK YOU...!
+# THANK YOU...!

@@ -8,9 +8,6 @@
 - [🗂️ Dictionaries](#-dictionaries)
 - [🔐 OOP (Object-Oriented Programming)](#-oop-object-oriented-programming)
 - [🛢️ PDBC (Python Database Connectivity)](#-pdbc-python-database-connectivity)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
-- [📬 Contact](#-contact)
 
 ---
 This repository contains a collection of Python mini-projects from beginner to intermediate-level that showcase the use of core programming concepts such as:
@@ -78,3 +75,4 @@ This repository contains a collection of Python mini-projects from beginner to i
 
 ---
 
+THANK YOU...!
